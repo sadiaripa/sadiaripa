@@ -7,3 +7,4 @@ Hello, I am Sadia Parvin Ripa👋
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/sadia-parvin-ripa-80b952166/
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love to travel and explore new places. During this pandemic it is not possible so I am listening songs and doing the work.
+- <img src="https://github-readme-stats.vercel.app/api?username=sadiaripa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
